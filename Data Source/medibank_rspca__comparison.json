@@ -1,0 +1,66 @@
+{
+    "Product Coverage, Benefits & Limits":{
+        "Medibank Pet Insurance":"Offers three plans (Pet Protect, Pet Plus, Pet Max). Covers specified accidental injuries and illnesses, with optional extras.",
+        "RSPCA Pet Insurance":"Offers General Cover. Basic plan covering specified accidental injuries and illnesses."
+    },
+    "Annual Benefit Limit":{
+        "Medibank Pet Insurance":"Ranges from $10,000 to unlimited depending on the plan.",
+        "RSPCA Pet Insurance":"$11,000 annual limit."
+    },
+    "Reimbursement Rate":{
+        "Medibank Pet Insurance":"Covers 70% to 90% of vet bills depending on the selected plan.",
+        "RSPCA Pet Insurance":"Covers 60% of vet bills."
+    },
+    "Excess\/Deductibles":{
+        "Medibank Pet Insurance":"Excess varies based on plan and selection.",
+        "RSPCA Pet Insurance":"$0 excess."
+    },
+    "Waiting Periods":{
+        "Medibank Pet Insurance":"30 days for illnesses, 6 months for cruciate ligament conditions (waivable with vet approval).",
+        "RSPCA Pet Insurance":"30 days for illnesses, 6 months for cruciate ligament conditions."
+    },
+    "Chronic Condition Coverage":{
+        "Medibank Pet Insurance":"Covered if not pre-existing before policy start.",
+        "RSPCA Pet Insurance":"Covered if not pre-existing before policy start."
+    },
+    "Alternative & Specialist Treatments":{
+        "Medibank Pet Insurance":"Covers alternative therapies like acupuncture, physiotherapy, and hydrotherapy (under 'Extra Care' option).",
+        "RSPCA Pet Insurance":"No coverage for alternative therapies."
+    },
+    "Exclusions & Limitations":{
+        "Medibank Pet Insurance":"Excludes pre-existing conditions, elective treatments, hereditary and congenital disorders.",
+        "RSPCA Pet Insurance":"Excludes pre-existing conditions, hereditary diseases, routine treatments, and elective procedures."
+    },
+    "Claims Process":{
+        "Medibank Pet Insurance":"Claims submitted via Pet Portal, vet submission, or GapOnly\u00ae. Processing times vary.",
+        "RSPCA Pet Insurance":"Claims submitted via Pet Portal or email. Processing time varies."
+    },
+    "Pricing (Premiums)":{
+        "Medibank Pet Insurance":"Premiums based on pet\u2019s age, breed, and chosen coverage.",
+        "RSPCA Pet Insurance":"Premiums vary based on pet details and coverage."
+    },
+    "Special Benefits":{
+        "Medibank Pet Insurance":"Emergency pet boarding, travel coverage (New Zealand), and optional dental and routine care.",
+        "RSPCA Pet Insurance":"Emergency pet boarding and overseas travel (limited to some plans)."
+    },
+    "Underwriting Requirements":{
+        "Medibank Pet Insurance":"Pets must be over 8 weeks and younger than 9 years at enrollment.",
+        "RSPCA Pet Insurance":"Pets must be between 8 weeks and 16 years old at enrollment."
+    },
+    "Vet Network":{
+        "Medibank Pet Insurance":"No specific vet network required.",
+        "RSPCA Pet Insurance":"No specific vet network required."
+    },
+    "Emergency Hotline":{
+        "Medibank Pet Insurance":"No emergency hotline mentioned.",
+        "RSPCA Pet Insurance":"No emergency hotline mentioned."
+    },
+    "Multi-Pet Discounts":{
+        "Medibank Pet Insurance":"No multi-pet discount available.",
+        "RSPCA Pet Insurance":"No multi-pet discount available."
+    },
+    "Lifetime Coverage":{
+        "Medibank Pet Insurance":"Renewable annually if terms are met.",
+        "RSPCA Pet Insurance":"Renewable for life if continuously renewed."
+    }
+}

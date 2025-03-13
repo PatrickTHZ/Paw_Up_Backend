@@ -1,0 +1,23 @@
+{
+    "Processing Speed":{
+        "Bronze Pet Insurance":"Typically 5-10 business days.",
+        "Silver Pet Insurance":"3-7 business days.",
+        "Gold\/Platinum Pet Insurance":"GapOnly\u00ae: 10 minutes, Standard: 2-5 business days.",
+        "Medibank Pet Insurance":"GapOnly\u00ae: 10 minutes, Standard: 2-5 business days.",
+        "RSPCA Pet Insurance":"Processing time varies, typically 5-10 business days."
+    },
+    "Required Documents":{
+        "Bronze Pet Insurance":"Completed claim form, vet invoices, medical history.",
+        "Silver Pet Insurance":"Vet invoices, medical records, treatment details.",
+        "Gold\/Platinum Pet Insurance":"Vet invoices, medical history, treatment notes.",
+        "Medibank Pet Insurance":"Vet invoices, medical records, treatment details.",
+        "RSPCA Pet Insurance":"Completed claim form, vet invoices, medical history."
+    },
+    "Reimbursement Method":{
+        "Bronze Pet Insurance":"Direct deposit.",
+        "Silver Pet Insurance":"Direct deposit or credit to next premium payment.",
+        "Gold\/Platinum Pet Insurance":"Direct bank transfer.",
+        "Medibank Pet Insurance":"Direct bank transfer.",
+        "RSPCA Pet Insurance":"Direct deposit."
+    }
+}

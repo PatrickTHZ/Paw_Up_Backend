@@ -1,0 +1,82 @@
+{
+    "Product Coverage, Benefits & Limits":{
+        "Bronze Cover":"Covers specific conditions only (e.g., cancer, diabetes, heart disease). Routine care and dental illness optional.",
+        "Silver Cover":"Covers accidental injury and specified illnesses. Routine care and dental illness optional.",
+        "Gold\/Platinum Cover":"Covers accidental injury and all illnesses. Gold has optional dental cover, Platinum includes dental."
+    },
+    "Annual Benefit Limit":{
+        "Bronze Cover":"$5,000 per year",
+        "Silver Cover":"$10,000 per year",
+        "Gold\/Platinum Cover":"$15,000 (Gold) \/ Unlimited (Platinum)"
+    },
+    "Reimbursement Rate":{
+        "Bronze Cover":"Up to 80%",
+        "Silver Cover":"Up to 85%",
+        "Gold\/Platinum Cover":"Up to 90%"
+    },
+    "Excess\/Deductibles":{
+        "Bronze Cover":"$200 per claim",
+        "Silver Cover":"$150 per claim",
+        "Gold\/Platinum Cover":"$100 per claim"
+    },
+    "Waiting Periods":{
+        "Bronze Cover":"2 days for accidents, 30 days for illnesses",
+        "Silver Cover":"2 days for accidents, 30 days for illnesses",
+        "Gold\/Platinum Cover":"1 day for accidents, 30 days for illnesses"
+    },
+    "Chronic Condition Coverage":{
+        "Bronze Cover":"Not covered if diagnosed before policy start",
+        "Silver Cover":"Covered if not pre-existing before policy start",
+        "Gold\/Platinum Cover":"Covered, including long-term illnesses (if not pre-existing)"
+    },
+    "Alternative & Specialist Treatments":{
+        "Bronze Cover":"Not covered (no acupuncture, physiotherapy, hydrotherapy)",
+        "Silver Cover":"Covers some specialist treatments but not alternative therapies",
+        "Gold\/Platinum Cover":"Covers alternative therapies such as acupuncture, hydrotherapy, and physiotherapy"
+    },
+    "Exclusions & Limitations":{
+        "Bronze Cover":"Excludes pre-existing conditions, elective treatments, hereditary and congenital disorders",
+        "Silver Cover":"Excludes pre-existing conditions, hereditary diseases, elective treatments",
+        "Gold\/Platinum Cover":"Excludes pre-existing conditions, hereditary conditions, and elective procedures"
+    },
+    "Claims Process":{
+        "Bronze Cover":"Claims via Pet Portal or GapOnly\u00ae. Processing time varies.",
+        "Silver Cover":"Claims via Pet Portal, vet submission, or GapOnly\u00ae. Fast-track claims available.",
+        "Gold\/Platinum Cover":"Claims via Pet Portal, vet submission, or GapOnly\u00ae. Platinum has priority claims processing."
+    },
+    "Pricing (Premiums)":{
+        "Bronze Cover":"Based on breed, age, and coverage options",
+        "Silver Cover":"Based on pet details, plan selection, and risk assessment",
+        "Gold\/Platinum Cover":"Varies by plan (Gold vs. Platinum), breed, and age"
+    },
+    "Special Benefits":{
+        "Bronze Cover":"Optional routine care add-on covers vaccinations and dental",
+        "Silver Cover":"Emergency pet boarding covered. Routine care optional",
+        "Gold\/Platinum Cover":"Emergency pet boarding covered, dental included in Platinum, optional in Gold"
+    },
+    "Underwriting Requirements":{
+        "Bronze Cover":"Pets must be between 8 weeks and 9 years old at enrollment",
+        "Silver Cover":"Same as Bronze (8 weeks to 9 years old)",
+        "Gold\/Platinum Cover":"Same as Bronze and Silver"
+    },
+    "Vet Network":{
+        "Bronze Cover":"No specific vet network; any registered Australian vet is accepted",
+        "Silver Cover":"No specific vet network required",
+        "Gold\/Platinum Cover":"No specific vet network required"
+    },
+    "Emergency Hotline":{
+        "Bronze Cover":"Not mentioned",
+        "Silver Cover":"Not mentioned",
+        "Gold\/Platinum Cover":"Not mentioned"
+    },
+    "Multi-Pet Discounts":{
+        "Bronze Cover":"No discount",
+        "Silver Cover":"No discount",
+        "Gold\/Platinum Cover":"Multi-pet discounts available"
+    },
+    "Lifetime Coverage":{
+        "Bronze Cover":"Coverage continues if policy is renewed annually",
+        "Silver Cover":"Renewable for life if terms are met",
+        "Gold\/Platinum Cover":"Lifetime coverage available with continuous renewal"
+    }
+}

@@ -1,0 +1,848 @@
+[
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"PROMOTED\nMedibank Pet Max Cover with Extra Care",
+        "Paralysis Tick yearly sub-limit":"$30,000",
+        "Maximum Yearly Benefit":"$30,000",
+        "Reimbursement Rate %":"90%",
+        "Bonus":"First month free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"PROMOTED\nBudget Direct Plus Cover",
+        "Paralysis Tick yearly sub-limit":"$25,000",
+        "Maximum Yearly Benefit":"$3,000",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"15% off first year\u2019s premium online"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"PROMOTED\nEveryday Comprehensive Plus Cover",
+        "Paralysis Tick yearly sub-limit":"$30,000",
+        "Maximum Yearly Benefit":"$3,000",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"10% off your monthly grocery shop. T&Cs apply."
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Bow Wow Meow Nose-to-Tail Cover\nFinder Award",
+        "Paralysis Tick yearly sub-limit":"$30,000",
+        "Maximum Yearly Benefit":"No sub-limit",
+        "Reimbursement Rate %":"70%, 80% or 90%",
+        "Bonus":"10% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Knose Pet Insurance\nFinder Award\nExclusive",
+        "Paralysis Tick yearly sub-limit":"$25,000",
+        "Maximum Yearly Benefit":"$25,000",
+        "Reimbursement Rate %":"90%",
+        "Bonus":"5% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Coles Comprehensive Cover",
+        "Paralysis Tick yearly sub-limit":"$12,000",
+        "Maximum Yearly Benefit":"$2,500",
+        "Reimbursement Rate %":"80% or 100%",
+        "Bonus":"5% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Fetch Pet Insurance",
+        "Paralysis Tick yearly sub-limit":"$30,000",
+        "Maximum Yearly Benefit":"$30,000",
+        "Reimbursement Rate %":"80% or 90% or 100%",
+        "Bonus":"Get free 24\/7 vet support"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"PIA Major Medical Cover",
+        "Paralysis Tick yearly sub-limit":"$30,145",
+        "Maximum Yearly Benefit":"$3,000",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"First 3 months free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"PD Deluxe Plan",
+        "Paralysis Tick yearly sub-limit":"$20,000",
+        "Maximum Yearly Benefit":"$15,000",
+        "Reimbursement Rate %":"100%",
+        "Bonus":"First month free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Vets Choice Elite Cover",
+        "Paralysis Tick yearly sub-limit":"$15,000",
+        "Maximum Yearly Benefit":"$2,500",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"5% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Petsy Top Cover\nExclusive\nHighly Commended",
+        "Paralysis Tick yearly sub-limit":"$25,000",
+        "Maximum Yearly Benefit":"$25,000",
+        "Reimbursement Rate %":"90%",
+        "Bonus":"5% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Guardian Platinum Accident & Illness Cover",
+        "Paralysis Tick yearly sub-limit":"$12,000",
+        "Maximum Yearly Benefit":"$1,200",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"No offers currently"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Real Premium Accident & Illness Cover",
+        "Paralysis Tick yearly sub-limit":"$12,000",
+        "Maximum Yearly Benefit":"$1,200",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"Get 10% of your premiums back after 12 months"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"RSPCA Ultimate Plus Accident and Illness Cover\nBest Rated Brand",
+        "Paralysis Tick yearly sub-limit":"$20,000",
+        "Maximum Yearly Benefit":"$20,000",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"First month free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"PetsOnMe Deluxe Plan",
+        "Paralysis Tick yearly sub-limit":"$20,000",
+        "Maximum Yearly Benefit":"$20,000",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"1- 2 months free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Coles Premium Cover",
+        "Paralysis Tick yearly sub-limit":"$15,000",
+        "Maximum Yearly Benefit":"$2,500",
+        "Reimbursement Rate %":"80% or 100%",
+        "Bonus":"5% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Everyday Standard Cover",
+        "Paralysis Tick yearly sub-limit":"$10,000",
+        "Maximum Yearly Benefit":"$1,500",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"Free access to VetAssist + 10% off groceries"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Guide Dogs Basic Care",
+        "Paralysis Tick yearly sub-limit":"$15,000",
+        "Maximum Yearly Benefit":"$1,500",
+        "Reimbursement Rate %":"75%",
+        "Bonus":"1 month free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Everyday Comprehensive Cover",
+        "Paralysis Tick yearly sub-limit":"$24,000",
+        "Maximum Yearly Benefit":"$2,000",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"Free access to VetAssist + 10% off groceries"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"PD Accident Plan",
+        "Paralysis Tick yearly sub-limit":"$5,000",
+        "Maximum Yearly Benefit":"$5,000",
+        "Reimbursement Rate %":"100%",
+        "Bonus":"First month free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Knose Pet Insurance\nExclusive",
+        "Paralysis Tick yearly sub-limit":"$12,500",
+        "Maximum Yearly Benefit":"$12,500",
+        "Reimbursement Rate %":"70%",
+        "Bonus":"5% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Coles Basic Cover",
+        "Paralysis Tick yearly sub-limit":"$10,000",
+        "Maximum Yearly Benefit":"$2,500",
+        "Reimbursement Rate %":"80% or 100%",
+        "Bonus":"5% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"RSPCA Economy Accident & Illness Cover\nBest Rated Brand",
+        "Paralysis Tick yearly sub-limit":"$11,000",
+        "Maximum Yearly Benefit":"$1,000",
+        "Reimbursement Rate %":"75%",
+        "Bonus":"First month free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"PetsOnMe Accident Plan",
+        "Paralysis Tick yearly sub-limit":"$5,000",
+        "Maximum Yearly Benefit":"$5,000",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"1- 2 months free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Australian Seniors Essential Accident & Illness Cover",
+        "Paralysis Tick yearly sub-limit":"$12,000",
+        "Maximum Yearly Benefit":"$1,000",
+        "Reimbursement Rate %":"75%",
+        "Bonus":"10% off if you're over 50"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Everyday Indoor Cat Cover",
+        "Paralysis Tick yearly sub-limit":"$15,000",
+        "Maximum Yearly Benefit":"No",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"Free access to VetAssist + 10% off groceries"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Vets Choice Pro Cover",
+        "Paralysis Tick yearly sub-limit":"$12,000",
+        "Maximum Yearly Benefit":"$2,500",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"5% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"PIA Comprehensive Cover",
+        "Paralysis Tick yearly sub-limit":"$30,000",
+        "Maximum Yearly Benefit":"$1,000",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"First 3 months free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"RSPCA General Accident & Illness Cover\nBest Rated Brand",
+        "Paralysis Tick yearly sub-limit":"$11,000",
+        "Maximum Yearly Benefit":"$2,000",
+        "Reimbursement Rate %":"60%",
+        "Bonus":"First month free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Australian Seniors Basic Accident & Illness Cover",
+        "Paralysis Tick yearly sub-limit":"$12,000",
+        "Maximum Yearly Benefit":"$2,000",
+        "Reimbursement Rate %":"60%",
+        "Bonus":"10% off if you're over 50"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Everyday Basic Cover",
+        "Paralysis Tick yearly sub-limit":"$5,000",
+        "Maximum Yearly Benefit":"$1,500",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"Free access to VetAssist + 10% off groceries"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Australian Seniors Top Accident & Illness Cover",
+        "Paralysis Tick yearly sub-limit":"$12,000",
+        "Maximum Yearly Benefit":"$1,200",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"10% off if you're over 50"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Medibank Pet Protect Cover",
+        "Paralysis Tick yearly sub-limit":"$10,000",
+        "Maximum Yearly Benefit":"$4,000",
+        "Reimbursement Rate %":"70%",
+        "Bonus":"Medibank and ahm health members save 10% on premiums."
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"RSPCA Ultimate Accident & Illness Cover\nBest Rated Brand",
+        "Paralysis Tick yearly sub-limit":"$11,000",
+        "Maximum Yearly Benefit":"$1,200",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"First month free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Medibank Pet Plus Cover",
+        "Paralysis Tick yearly sub-limit":"$25,000",
+        "Maximum Yearly Benefit":"$25,000",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"Medibank and ahm health members save 10% on premiums."
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Real Classic Accident & Illness Cover",
+        "Paralysis Tick yearly sub-limit":"$12,000",
+        "Maximum Yearly Benefit":"$2,000",
+        "Reimbursement Rate %":"60%",
+        "Bonus":"Get 10% of your premiums back after 12 months"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Real Standard Accident & Illness Cover",
+        "Paralysis Tick yearly sub-limit":"$12,000",
+        "Maximum Yearly Benefit":"$1,000",
+        "Reimbursement Rate %":"75%",
+        "Bonus":"Get 10% of your premiums back after 12 months"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Petsy Custom Cover\nExclusive",
+        "Paralysis Tick yearly sub-limit":"$25,000 or $10,000",
+        "Maximum Yearly Benefit":"$5000 or $10,000 or $25,000",
+        "Reimbursement Rate %":"80% or 90%",
+        "Bonus":"5% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Guardian Gold Accident & Illness Cover",
+        "Paralysis Tick yearly sub-limit":"$12,000",
+        "Maximum Yearly Benefit":"$1,000",
+        "Reimbursement Rate %":"75%",
+        "Bonus":"No offers currently"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Budget Direct Essential Cover",
+        "Paralysis Tick yearly sub-limit":"$12,000",
+        "Maximum Yearly Benefit":"$1,000",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"15% off first year\u2019s premium online"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Budget Direct Comprehensive Cover",
+        "Paralysis Tick yearly sub-limit":"$15,000",
+        "Maximum Yearly Benefit":"$1,500",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"15% off first year\u2019s premium online"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"PIA Essentials Cover",
+        "Paralysis Tick yearly sub-limit":"$6,000",
+        "Maximum Yearly Benefit":"$1,000",
+        "Reimbursement Rate %":"90%",
+        "Bonus":"First 3 months free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"PD Classic Plan",
+        "Paralysis Tick yearly sub-limit":"$10,000",
+        "Maximum Yearly Benefit":"$10,000",
+        "Reimbursement Rate %":"100%",
+        "Bonus":"First month free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"PetsOnMe Classic Plan",
+        "Paralysis Tick yearly sub-limit":"$10,000",
+        "Maximum Yearly Benefit":"$10,000",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"1- 2 months free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Guardian Bronze Accident & Illness Cover",
+        "Paralysis Tick yearly sub-limit":"$12,000",
+        "Maximum Yearly Benefit":"$2,000",
+        "Reimbursement Rate %":"60%",
+        "Bonus":"No offers currently"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Guide Dogs Comprehensive Care",
+        "Paralysis Tick yearly sub-limit":"$15,000",
+        "Maximum Yearly Benefit":"$2,000",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"1 month free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Guide Dogs Premium Care",
+        "Paralysis Tick yearly sub-limit":"$20,000",
+        "Maximum Yearly Benefit":"$2,000",
+        "Reimbursement Rate %":"85%",
+        "Bonus":"1 month free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Petcover Vital Plan",
+        "Paralysis Tick yearly sub-limit":"$10,000",
+        "Maximum Yearly Benefit":"1st claim up to $2,000 Subsequent claims up to $1,000",
+        "Reimbursement Rate %":"70%, 80% or 90%",
+        "Bonus":"5% or 10% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Pet Circle Cat Cover",
+        "Paralysis Tick yearly sub-limit":"$10,000",
+        "Maximum Yearly Benefit":"$10K or $17.5K or $30K",
+        "Reimbursement Rate %":"70% or 80% or 90%",
+        "Bonus":"Get 2 months free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"RAC Dog Insurance",
+        "Paralysis Tick yearly sub-limit":"$12,000",
+        "Maximum Yearly Benefit":"No specified limit",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"No offers currently"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":0,
+        "Insurance Cover":"Australian Unity Bronze Cover",
+        "Paralysis Tick yearly sub-limit":"$20,000",
+        "Maximum Yearly Benefit":"No",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"5% discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Petinsurance.com.au Dog Platinum Cover",
+        "Paralysis Tick yearly sub-limit":"$30,000",
+        "Maximum Yearly Benefit":"$30,000",
+        "Reimbursement Rate %":"up to 80%",
+        "Bonus":"5% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Australian Unity Silver Cover",
+        "Paralysis Tick yearly sub-limit":"$20,000",
+        "Maximum Yearly Benefit":"$2,000",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"5% discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Petcover Entry Plan",
+        "Paralysis Tick yearly sub-limit":"$10,000",
+        "Maximum Yearly Benefit":"No sub-limit",
+        "Reimbursement Rate %":"100%",
+        "Bonus":"5% or 10% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"HCF Pet Premium",
+        "Paralysis Tick yearly sub-limit":"$12,000",
+        "Maximum Yearly Benefit":"$1,000",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"10% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Prime Sovereign Accident & Illness Cover (with Dental Illness Benefit)",
+        "Paralysis Tick yearly sub-limit":"$14,000",
+        "Maximum Yearly Benefit":null,
+        "Reimbursement Rate %":null,
+        "Bonus":"10% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Australian Unity Gold Cover",
+        "Paralysis Tick yearly sub-limit":"$20,000",
+        "Maximum Yearly Benefit":"$3,000",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"5% discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Orivet Platinum Cover",
+        "Paralysis Tick yearly sub-limit":"$30,000",
+        "Maximum Yearly Benefit":"Up to annual benefit limit",
+        "Reimbursement Rate %":"90%",
+        "Bonus":"1 month free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Stella Pet Insurance",
+        "Paralysis Tick yearly sub-limit":"$20,000",
+        "Maximum Yearly Benefit":"Up to annual benefit limit",
+        "Reimbursement Rate %":"90%",
+        "Bonus":"No offers currently"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Kogan Indoor Cat Cover",
+        "Paralysis Tick yearly sub-limit":"$5,000",
+        "Maximum Yearly Benefit":"No",
+        "Reimbursement Rate %":"80% up to age 8 & 65% over age 8",
+        "Bonus":"2 months free + $10 credit"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Petcover Catastrophe 2 Plan",
+        "Paralysis Tick yearly sub-limit":"$10,000",
+        "Maximum Yearly Benefit":"No",
+        "Reimbursement Rate %":"100%",
+        "Bonus":"5% or 10% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Potiki Gold Cover",
+        "Paralysis Tick yearly sub-limit":"$20,000",
+        "Maximum Yearly Benefit":"$3,000",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"1 month free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Petcover Key Plan",
+        "Paralysis Tick yearly sub-limit":"$15,000",
+        "Maximum Yearly Benefit":"1st claim up to $2,000 Subsequent claims up to $1,000",
+        "Reimbursement Rate %":"70%, 80% or 90%",
+        "Bonus":"5% or 10% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Petcover Superior Plan",
+        "Paralysis Tick yearly sub-limit":"$200,000",
+        "Maximum Yearly Benefit":"No sub-limit",
+        "Reimbursement Rate %":"100%",
+        "Bonus":"5% or 10% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"ahm Platinum Cover",
+        "Paralysis Tick yearly sub-limit":"$30,000",
+        "Maximum Yearly Benefit":"$30,000",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"Get 2 months free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Prime Imperial Accident & Illness Cover",
+        "Paralysis Tick yearly sub-limit":"$14,000",
+        "Maximum Yearly Benefit":"$1,000",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"10% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Petmed Young Pets",
+        "Paralysis Tick yearly sub-limit":"$18,000",
+        "Maximum Yearly Benefit":"$1,000",
+        "Reimbursement Rate %":"65% or 80%",
+        "Bonus":"No offers currently"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Prime Regal Accident & Illness Cover",
+        "Paralysis Tick yearly sub-limit":"$14,000",
+        "Maximum Yearly Benefit":"$2,000",
+        "Reimbursement Rate %":"65%",
+        "Bonus":"10% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Orivet Silver Cover",
+        "Paralysis Tick yearly sub-limit":"$20,000",
+        "Maximum Yearly Benefit":"$2,000",
+        "Reimbursement Rate %":"80",
+        "Bonus":"1 month free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Commonwealth Bank Plus Cover",
+        "Paralysis Tick yearly sub-limit":"$30,000",
+        "Maximum Yearly Benefit":"Up to annual benefit limit",
+        "Reimbursement Rate %":"80% or 90%",
+        "Bonus":"Two months' free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Prime Sovereign Accident & Illness Cover",
+        "Paralysis Tick yearly sub-limit":"$14,000",
+        "Maximum Yearly Benefit":"$1,200",
+        "Reimbursement Rate %":"85%",
+        "Bonus":"10% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"ING Pet Insurance",
+        "Paralysis Tick yearly sub-limit":"$12,000",
+        "Maximum Yearly Benefit":"$1,500",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"15% off first year\u2019s premium online"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Petcover Catastrophe 1 Plan",
+        "Paralysis Tick yearly sub-limit":"$5,000",
+        "Maximum Yearly Benefit":"No",
+        "Reimbursement Rate %":"100%",
+        "Bonus":"5% or 10% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Petcover Core Plan",
+        "Paralysis Tick yearly sub-limit":"$5,000",
+        "Maximum Yearly Benefit":"1st claim up to $2,000 Subsequent claims up to $1,000",
+        "Reimbursement Rate %":"70%, 80% or 90%",
+        "Bonus":"5% or 10% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"RACQ Pet Insurance",
+        "Paralysis Tick yearly sub-limit":"$12,000",
+        "Maximum Yearly Benefit":"No specified limit",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"Save $50 per pet when you enroll online"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Petbarn Total Cover",
+        "Paralysis Tick yearly sub-limit":"Not stated",
+        "Maximum Yearly Benefit":"$1,500",
+        "Reimbursement Rate %":"100%",
+        "Bonus":"Use promo code 2MFREE to get 2 months"
+    },
+    {
+        "Accidental Injury Cover":0,
+        "Illness Cover":1,
+        "Insurance Cover":"Orivet Bronze Cover",
+        "Paralysis Tick yearly sub-limit":"$20,000",
+        "Maximum Yearly Benefit":"No",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"1 month free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Kogan Pet Primary Cover",
+        "Paralysis Tick yearly sub-limit":"$8,000",
+        "Maximum Yearly Benefit":"$1,200",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"2 months free + $10 credit"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Trupanion Pet Insurance",
+        "Paralysis Tick yearly sub-limit":"Unlimited",
+        "Maximum Yearly Benefit":"Unlimited",
+        "Reimbursement Rate %":"90%",
+        "Bonus":"24\/7\/365 phone service"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Potiki Silver Cover",
+        "Paralysis Tick yearly sub-limit":"$20,000",
+        "Maximum Yearly Benefit":"$2,000",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"1 month free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Commonwealth Bank Classic Cover",
+        "Paralysis Tick yearly sub-limit":"$15,000",
+        "Maximum Yearly Benefit":"$4,000",
+        "Reimbursement Rate %":"70% or 80%",
+        "Bonus":"Two months' free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Bupa Ultimate Cover",
+        "Paralysis Tick yearly sub-limit":"$20,000",
+        "Maximum Yearly Benefit":"$1,500",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"5% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"RAC Cat Insurance",
+        "Paralysis Tick yearly sub-limit":"$12,000",
+        "Maximum Yearly Benefit":"No specified limit",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"No offers currently"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Mad Paws Classic Plan",
+        "Paralysis Tick yearly sub-limit":"$110,000",
+        "Maximum Yearly Benefit":"100%",
+        "Reimbursement Rate %":"70% - 100%",
+        "Bonus":"$50 cash back"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Kogan Pet Luxury Cover",
+        "Paralysis Tick yearly sub-limit":"$15,000",
+        "Maximum Yearly Benefit":"$2,000",
+        "Reimbursement Rate %":"80% up to age 8 & 65% over age 8",
+        "Bonus":"2 months free + $10 credit"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Potiki Platinum Cover",
+        "Paralysis Tick yearly sub-limit":"$30,000",
+        "Maximum Yearly Benefit":"$30,000",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"1 month free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Orivet Gold Cover",
+        "Paralysis Tick yearly sub-limit":"$20,000",
+        "Maximum Yearly Benefit":"$3,000",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"1 month free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Australian Unity Platinum Cover",
+        "Paralysis Tick yearly sub-limit":"$30,000",
+        "Maximum Yearly Benefit":"Up to annual benefit limit",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"5% discount"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":0,
+        "Insurance Cover":"Mad Paws Emergency Plan",
+        "Paralysis Tick yearly sub-limit":"$6,800",
+        "Maximum Yearly Benefit":"10%",
+        "Reimbursement Rate %":"70% - 100%",
+        "Bonus":"$50 cash back"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Pet Circle Dog Cover",
+        "Paralysis Tick yearly sub-limit":"$30,000",
+        "Maximum Yearly Benefit":"$10K or $17.5K or $30K",
+        "Reimbursement Rate %":"70% or 80% or 90%",
+        "Bonus":"Get 2 months free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Petcover Mid-point Plan",
+        "Paralysis Tick yearly sub-limit":"$15,000",
+        "Maximum Yearly Benefit":"No sub-limit",
+        "Reimbursement Rate %":"100%",
+        "Bonus":"5% or 10% multi pet discount"
+    },
+    {
+        "Accidental Injury Cover":0,
+        "Illness Cover":1,
+        "Insurance Cover":"Potiki Bronze Cover",
+        "Paralysis Tick yearly sub-limit":"$20,000",
+        "Maximum Yearly Benefit":"No",
+        "Reimbursement Rate %":"80%",
+        "Bonus":"1 month free"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Mad Paws Deluxe Plan",
+        "Paralysis Tick yearly sub-limit":"$15,000",
+        "Maximum Yearly Benefit":"100%",
+        "Reimbursement Rate %":"70% - 100%",
+        "Bonus":"$50 cash back"
+    },
+    {
+        "Accidental Injury Cover":1,
+        "Illness Cover":1,
+        "Insurance Cover":"Petcover Economy Plan",
+        "Paralysis Tick yearly sub-limit":"$7,000",
+        "Maximum Yearly Benefit":"No",
+        "Reimbursement Rate %":"100%",
+        "Bonus":"5% or 10% multi pet discount"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "Company_ID":"ID 1",
+        "Company Name":"RSPCA",
+        "Furry Friend":"Dog",
+        "Optional Extra Name":"Routine Care Cover",
+        "Fortnightly":2.31,
+        "Monthly":5.0,
+        "Yearly":60.0
+    },
+    {
+        "Company_ID":"ID 1",
+        "Company Name":"RSPCA",
+        "Furry Friend":"Cat",
+        "Optional Extra Name":"Routine Care Cover",
+        "Fortnightly":2.31,
+        "Monthly":5.0,
+        "Yearly":60.0
+    },
+    {
+        "Company_ID":"ID 3",
+        "Company Name":"MEDIBANK",
+        "Furry Friend":"Dog",
+        "Optional Extra Name":"Routine Care Cover",
+        "Fortnightly":2.85,
+        "Monthly":6.16,
+        "Yearly":73.95
+    },
+    {
+        "Company_ID":"ID 3",
+        "Company Name":"MEDIBANK",
+        "Furry Friend":"Dog",
+        "Optional Extra Name":"Extra Care Cover",
+        "Fortnightly":2.05,
+        "Monthly":4.43,
+        "Yearly":53.16
+    },
+    {
+        "Company_ID":"ID 3",
+        "Company Name":"MEDIBANK",
+        "Furry Friend":"Cat",
+        "Optional Extra Name":"Routine Care Cover",
+        "Fortnightly":2.85,
+        "Monthly":6.16,
+        "Yearly":73.95
+    },
+    {
+        "Company_ID":"ID 3",
+        "Company Name":"MEDIBANK",
+        "Furry Friend":"Cat",
+        "Optional Extra Name":"Extra Care Cover",
+        "Fortnightly":2.42,
+        "Monthly":5.24,
+        "Yearly":62.94
+    },
+    {
+        "Company_ID":"ID 2",
+        "Company Name":"AAMI",
+        "Furry Friend":"Dog",
+        "Optional Extra Name":"Routine Care Cover",
+        "Fortnightly":3.28,
+        "Monthly":7.1,
+        "Yearly":85.24
+    },
+    {
+        "Company_ID":"ID 2",
+        "Company Name":"AAMI",
+        "Furry Friend":"Dog",
+        "Optional Extra Name":"Routine Care Cover - Dental Illness",
+        "Fortnightly":0.83,
+        "Monthly":1.8,
+        "Yearly":21.55
+    },
+    {
+        "Company_ID":"ID 2",
+        "Company Name":"AAMI",
+        "Furry Friend":"Cat",
+        "Optional Extra Name":"Routine Care Cover",
+        "Fortnightly":3.28,
+        "Monthly":7.1,
+        "Yearly":85.24
+    },
+    {
+        "Company_ID":"ID 2",
+        "Company Name":"AAMI",
+        "Furry Friend":"Cat",
+        "Optional Extra Name":"Routine Care Cover - Dental Illness",
+        "Fortnightly":1.18,
+        "Monthly":2.54,
+        "Yearly":30.55
+    }
+]
