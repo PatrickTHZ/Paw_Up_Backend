@@ -10,7 +10,7 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(
 pc = Pinecone(api_key=PINECONE_API_KEY)
 pinecone_index = pc.Index(PINECONE_INDEX_NAME)
 openai.api_key = OPENAI_API_KEY
-memory = ConversationBufferMemory()
+
 
 def generate_embeddings(text: str):
     try:
@@ -22,9 +22,11 @@ def generate_embeddings(text: str):
         logging.error(f"Embedding API Error: {e}")
         return None
 
-def upsert_documents(documents: list):
+def upsert_documents(documents: list, batch_size=50):
     try:
-        pinecone_index.upsert(vectors=documents)
-        logging.info(f"Successful : {len(documents)}")
+        for i in range(0, len(documents), batch_size):
+            batch = documents[i : i + batch_size]
+            pinecone_index.upsert(vectors=batch)
+            logging.info(f"Uploaded batch {i // batch_size + 1} of {len(documents) // batch_size + 1}")
     except Exception as e:
         logging.error(f"Error: {e}")
