@@ -1,6 +1,6 @@
 [
     {
-        "Company_ID":"ID 1",
+        "Company_ID":1,
         "Company Name":"RSPCA",
         "Furry Friend":"Dog",
         "Plan Name":"RSPCA Ultimate PlusAccident & Illness Cover",
@@ -44,7 +44,7 @@
         "Flea\/tick\/worm control":"Not specified"
     },
     {
-        "Company_ID":"ID 1",
+        "Company_ID":1,
         "Company Name":"RSPCA",
         "Furry Friend":"Dog",
         "Plan Name":"RSPCA UltimateAccident & Illness Cover",
@@ -88,7 +88,7 @@
         "Flea\/tick\/worm control":"Not specified"
     },
     {
-        "Company_ID":"ID 1",
+        "Company_ID":1,
         "Company Name":"RSPCA",
         "Furry Friend":"Dog",
         "Plan Name":"RSPCA EconomyAccident & Illness Cover",
@@ -132,7 +132,7 @@
         "Flea\/tick\/worm control":"Not specified"
     },
     {
-        "Company_ID":"ID 1",
+        "Company_ID":1,
         "Company Name":"RSPCA",
         "Furry Friend":"Dog",
         "Plan Name":"RSPCA GeneralAccident & Illness Cover",
@@ -176,7 +176,7 @@
         "Flea\/tick\/worm control":"Not specified"
     },
     {
-        "Company_ID":"ID 1",
+        "Company_ID":1,
         "Company Name":"RSPCA",
         "Furry Friend":"Cat",
         "Plan Name":"RSPCA Ultimate PlusAccident & Illness Cover",
@@ -220,7 +220,7 @@
         "Flea\/tick\/worm control":"Not specified"
     },
     {
-        "Company_ID":"ID 1",
+        "Company_ID":1,
         "Company Name":"RSPCA",
         "Furry Friend":"Cat",
         "Plan Name":"RSPCA UltimateAccident & Illness Cover",
@@ -264,7 +264,7 @@
         "Flea\/tick\/worm control":"Not specified"
     },
     {
-        "Company_ID":"ID 1",
+        "Company_ID":1,
         "Company Name":"RSPCA",
         "Furry Friend":"Cat",
         "Plan Name":"RSPCA EconomyAccident & Illness Cover",
@@ -308,7 +308,7 @@
         "Flea\/tick\/worm control":"Not specified"
     },
     {
-        "Company_ID":"ID 1",
+        "Company_ID":1,
         "Company Name":"RSPCA",
         "Furry Friend":"Cat",
         "Plan Name":"RSPCA GeneralAccident & Illness Cover",
@@ -352,7 +352,7 @@
         "Flea\/tick\/worm control":"Not specified"
     },
     {
-        "Company_ID":"ID 2",
+        "Company_ID":2,
         "Company Name":"AAMI",
         "Furry Friend":"Dog",
         "Plan Name":"Silver",
@@ -396,7 +396,7 @@
         "Flea\/tick\/worm control":"Optional Cover - Routine Care"
     },
     {
-        "Company_ID":"ID 2",
+        "Company_ID":2,
         "Company Name":"AAMI",
         "Furry Friend":"Dog",
         "Plan Name":"Gold",
@@ -440,7 +440,7 @@
         "Flea\/tick\/worm control":"Optional Cover - Routine Care"
     },
     {
-        "Company_ID":"ID 2",
+        "Company_ID":2,
         "Company Name":"AAMI",
         "Furry Friend":"Dog",
         "Plan Name":"Platinum",
@@ -484,7 +484,7 @@
         "Flea\/tick\/worm control":"Optional Cover - Routine Care"
     },
     {
-        "Company_ID":"ID 2",
+        "Company_ID":2,
         "Company Name":"AAMI",
         "Furry Friend":"Cat",
         "Plan Name":"Bronze",
@@ -528,7 +528,7 @@
         "Flea\/tick\/worm control":"Optional Cover - Routine Care"
     },
     {
-        "Company_ID":"ID 2",
+        "Company_ID":2,
         "Company Name":"AAMI",
         "Furry Friend":"Cat",
         "Plan Name":"Gold ",
@@ -572,7 +572,7 @@
         "Flea\/tick\/worm control":"Optional Cover - Routine Care"
     },
     {
-        "Company_ID":"ID 2",
+        "Company_ID":2,
         "Company Name":"AAMI",
         "Furry Friend":"Cat",
         "Plan Name":"Platinum",
@@ -616,7 +616,7 @@
         "Flea\/tick\/worm control":"Optional Cover - Routine Care"
     },
     {
-        "Company_ID":"ID 3",
+        "Company_ID":3,
         "Company Name":"MEDIBANK",
         "Furry Friend":"Dog",
         "Plan Name":"Pet Max",
@@ -660,7 +660,7 @@
         "Flea\/tick\/worm control":"Not specified"
     },
     {
-        "Company_ID":"ID 3",
+        "Company_ID":3,
         "Company Name":"MEDIBANK",
         "Furry Friend":"Dog",
         "Plan Name":"Pet Plus +",
@@ -704,7 +704,7 @@
         "Flea\/tick\/worm control":"Not specified"
     },
     {
-        "Company_ID":"ID 3",
+        "Company_ID":3,
         "Company Name":"MEDIBANK",
         "Furry Friend":"Dog",
         "Plan Name":"Pet Protect",
@@ -748,7 +748,7 @@
         "Flea\/tick\/worm control":"Not specified"
     },
     {
-        "Company_ID":"ID 3",
+        "Company_ID":3,
         "Company Name":"MEDIBANK",
         "Furry Friend":"Cat",
         "Plan Name":"Pet Max",
@@ -792,7 +792,7 @@
         "Flea\/tick\/worm control":"Not specified"
     },
     {
-        "Company_ID":"ID 3",
+        "Company_ID":3,
         "Company Name":"MEDIBANK",
         "Furry Friend":"Cat",
         "Plan Name":"Pet Plus +",
@@ -836,7 +836,7 @@
         "Flea\/tick\/worm control":"Not specified"
     },
     {
-        "Company_ID":"ID 3",
+        "Company_ID":3,
         "Company Name":"MEDIBANK",
         "Furry Friend":"Cat",
         "Plan Name":"Pet Protect",
