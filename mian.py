@@ -53,9 +53,8 @@ You are Paw-up, a fun and friendly chatbot for Paw-up! Your job is to help users
         messages.extend([m.dict() for m in chat_history])
         messages.append({"role": "user", "content": query})
 
-        # Use OpenAI ChatCompletion API (v0.28.0 style)
         openai_response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",  # Use supported model name in v0.28.0
+            model="gpt-3.5-turbo",
             messages=messages
         )
         openai_reply = openai_response["choices"][0]["message"]["content"]
