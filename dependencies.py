@@ -23,9 +23,29 @@ def generate_embeddings(text: str):
 
 def upsert_documents(documents: list, batch_size=50):
     try:
-        for i in range(0, len(documents), batch_size):
-            batch = documents[i : i + batch_size]
+        valid_docs = [doc for doc in documents if doc.get("values") and isinstance(doc["values"], list)]
+
+        if not valid_docs:
+            logging.warning("No valid documents to upsert.")
+            return
+
+        for i in range(0, len(valid_docs), batch_size):
+            batch = valid_docs[i: i + batch_size]
+            # Optional: log first vector of the batch
+            logging.info(f"Upserting batch {i // batch_size + 1} with {len(batch)} vectors")
+            logging.debug(json.dumps(batch[0], indent=2))  # Comment this if it's too big
+
             pinecone_index.upsert(vectors=batch)
-            logging.info(f"Uploaded batch {i // batch_size + 1} of {len(documents) // batch_size + 1}")
+
+        logging.info(f"Successfully uploaded {len(valid_docs)} documents to Pinecone.")
     except Exception as e:
-        logging.error(f"Error: {e}")
+        logging.error(f"Pinecone Upsert Error: {e}")
+
+def test_pinecone_connection():
+    try:
+        result = pinecone_index.describe_index_stats()
+        logging.info("Pinecone index connection successful.")
+        logging.info(f"Index stats: {result}")
+    except Exception as e:
+        logging.error(f"Failed to connect to Pinecone: {e}")
+

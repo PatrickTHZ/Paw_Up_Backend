@@ -10,12 +10,24 @@ logging.basicConfig(level=logging.INFO)
 SESSION_ID = "default-session"
 
 def build_reference_context(metadata: dict) -> str:
-    if "text" in metadata and metadata["text"]:
-        return metadata["text"]
+    # Define preferred fields to show first
+    primary_keys = [
+        "company_name", "plan_name", "furry_friend", "annual_limit",
+        "eligible_vet_bill_reimbursement", "age_eligibility",
+        "plan_monthly", "plan_yearly", "cancer_treatment", "skin_conditions"
+    ]
 
-    keys = ["Company", "Company Name", "Policy Name", "Plan Name", "Furry Friend", "doc_id"]
-    parts = [f"{key}: {metadata[key]}" for key in keys if key in metadata and metadata[key]]
-    return "; ".join(parts)
+    context_parts = []
+
+    for key in primary_keys:
+        if key in metadata:
+            context_parts.append(f"{key.replace('_', ' ').title()}: {metadata[key]}")
+
+    for key, value in metadata.items():
+        if key not in primary_keys:
+            context_parts.append(f"{key.replace('_', ' ').title()}: {value}")
+
+    return "\n".join(context_parts)
 
 def query_pinecone(vector, top_k=3):
     try:

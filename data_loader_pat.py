@@ -1,43 +1,42 @@
 import json
-from dependencies import generate_embeddings, upsert_documents
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+import logging
+from dependencies import generate_embeddings, upsert_documents, test_pinecone_connection
 
-text_splitter = RecursiveCharacterTextSplitter(
-    chunk_size=500,
-    chunk_overlap=50
-)
 def upload_from_json(json_file):
     with open(json_file, "r") as file:
         data = json.load(file)
 
     prepared_data = []
 
-    for company_id, company_data in data.items():
-        company_name = company_data["Company"]
-        insurance_policies = company_data["Insurance_Policies"]
+    for i, entry in enumerate(data):
 
-        for policy_name, policy_details in insurance_policies.items():
-            text = policy_details.get("general_info", "")
-            chunks = text_splitter.split_text(text)
+        doc_id = f"{entry.get('company_id', 'unknown')}-{entry.get('plan_name', 'unknown').replace(' ', '_')}-{i}"
 
-            for i, chunk in enumerate(chunks):
+        text = f"""
+        Plan: {entry.get('plan_name')}
+        Company: {entry.get('company_name')}
+        Annual Limit: {entry.get('annual_limit')}
+        Vet Bill Reimbursement: {entry.get('eligible_vet_bill_reimbursement')}
+        Age Eligibility: {entry.get('age_eligibility')}
+        Monthly: {entry.get('plan_monthly')}
+        Yearly: {entry.get('plan_yearly')}
+        Cancer Treatment: {entry.get('cancer_treatment')}
+        Conditions: {entry.get('specified_accidental_injuries_and_illnesses')}
+        """
 
-                metadata = {
-                    "Company": company_name,
-                    "Policy Name": policy_name,
-                    "chunk_id": i,
-                    "total_chunks": len(chunks),
-                    "doc_id": f"{company_id}-{policy_name}"
-                }
-
-                prepared_data.append({
-                    "id": f"{metadata['doc_id']}-{i}",
-                    "values": generate_embeddings(chunk),
-                    "metadata": metadata
-                })
+        # Generate embedding
+        embedding = generate_embeddings(text)
+        if embedding:
+            cleaned_metadata = {k: v for k, v in entry.items() if v is not None}
+            prepared_data.append({
+                "id": doc_id,
+                "values": embedding,
+                "metadata": cleaned_metadata
+            })
 
     upsert_documents(prepared_data)
-    print(f"Uploaded {len(prepared_data)} chunks successfully!")
+    logging.info(f"Uploaded {len(prepared_data)} documents to Pinecone.")
 
 if __name__ == "__main__":
-    upload_from_json("Data Source/updated_extracted_policies.json")
+    test_pinecone_connection()
+    upload_from_json("centralised_cleaned_data 1.json")
